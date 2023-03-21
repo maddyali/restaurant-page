@@ -2,7 +2,7 @@
 
 A restaurant page for the best burgers in Houston.
 
-🔗 Live demo [click here](burger-48.netlify.app/).
+🔗 Live demo [click here](https://burger-48.netlify.app/).
 
 Features
 - Responsive design
